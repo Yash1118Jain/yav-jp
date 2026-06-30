@@ -1,6 +1,6 @@
 "use client";
 
-import { motion, Variants } from "framer-motion";
+import type { Variants } from "framer-motion";
 import { createContext, useContext, ReactNode } from "react";
 
 interface MotionContextType {
